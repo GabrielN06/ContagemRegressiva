@@ -1,5 +1,5 @@
-﻿Console.WriteLine("Preparar...");
 Console.ReadKey();
+Console.WriteLine("Preparar...");
 
 Console.ReadKey();
 Console.WriteLine("Apontar...");
